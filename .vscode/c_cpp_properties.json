@@ -5,6 +5,7 @@
       "includePath": [
         "${workspaceFolder}/**",
         "${workspaceFolder}/observer/include",
+        "${workspaceFolder}/mediator/include",
         "C:/Users/dikai/OneDrive/Documents/Design Pattern W10/observer/glfw-3.4.bin.WIN64/include"
       ],
       "defines": [],
