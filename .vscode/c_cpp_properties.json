@@ -4,8 +4,8 @@
       "name": "windows-gcc-x64",
       "includePath": [
         "${workspaceFolder}/**",
-        "${workspaceFolder}/include",
-        "C:/Users/dikai/OneDrive/Documents/Design Pattern W10/glfw-3.4.bin.WIN64/include"
+        "${workspaceFolder}/observer/include",
+        "C:/Users/dikai/OneDrive/Documents/Design Pattern W10/observer/glfw-3.4.bin.WIN64/include"
       ],
       "defines": [],
       "windowsSdkVersion": "10.0.19041.0",
